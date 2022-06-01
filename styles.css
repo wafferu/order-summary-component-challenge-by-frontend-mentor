@@ -58,6 +58,7 @@ a:hover {
   border-radius: 1rem;
   text-align: center;
   color: hsl(224, 23%, 55%);
+  box-shadow: 0rem 1.3rem 1rem hsl(223, 47%, 23%, 12.5%);
 }
 
 /* ------------------------------------------------------------------------ */
